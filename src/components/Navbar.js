@@ -221,9 +221,7 @@ const Navbar = () => {
           </Box>
         </Toolbar>
 
-          <Box>
-            small changes
-          </Box>
+ 
 
             <Box sx={{width: '22rem', height: '2.3rem', background: 'white', 
                   borderRadius: '3rem', position: 'relative', margin: 'auto', zIndex: '-1',
