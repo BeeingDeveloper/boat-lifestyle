@@ -1,0 +1,8 @@
+.bar{
+    height: '100vh' ;
+     width: '25rem';
+     position: 'fixed';
+     background: 'orange';
+     top: '3rem'
+
+}
