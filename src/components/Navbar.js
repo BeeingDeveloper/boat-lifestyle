@@ -220,6 +220,11 @@ const Navbar = () => {
 {/* ============================================== CART LOGICS ================================================ */}
           </Box>
         </Toolbar>
+
+          <Box>
+            small changes
+          </Box>
+
             <Box sx={{width: '22rem', height: '2.3rem', background: 'white', 
                   borderRadius: '3rem', position: 'relative', margin: 'auto', zIndex: '-1',
                   marginBottom: '1rem', display:{xs: 'block', sm: 'block', md: 'none', lg: 'none'}
